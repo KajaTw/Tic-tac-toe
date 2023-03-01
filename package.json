@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0",
+    "styled": "1.0.0",
+    "styled-components": "5.3.6"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "name": "qpncjq",
+  "description": null,
+  "version": "0.0.1",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
